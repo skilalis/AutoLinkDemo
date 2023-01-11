@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutoLinkDemo</string>
+    <string name="autolink_demo">
+        Name: Shakil Ahmed \n
+        Email: shakilahmedali1@gmail.com\n
+        phone: +8801685885965\n
+        Website: https://www.skilalis.com
+    </string>
+</resources>
